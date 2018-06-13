@@ -1,0 +1,1 @@
+include ':app', ':vectorsmg', ':vectorsmg-compiler', ':vectorsmg-annotation', ':vectorsmg-compiler'
